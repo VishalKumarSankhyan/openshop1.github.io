@@ -87,12 +87,12 @@
         right: 0;
         /*bottom: -5px!important;*/
     }
-    
-    .fa-angle-right:before {
+
+    .carousel-control-prev {
         display: none!important;
     }
 
-    .fa-angle-left:before {
+    .carousel-control-next{
         display: none!important;
     }
 
