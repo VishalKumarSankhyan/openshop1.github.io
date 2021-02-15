@@ -362,7 +362,6 @@ h2{
     right: 0;
     bottom: -10px!important;
 }
-
 .fa-angle-left:before {
     font-size: 70px;
     color: rgb(0, 204, 255)!important;
@@ -550,6 +549,7 @@ p{
     margin-bottom: 60px;
 }
 .w3-left {
+    color: black;
     float: left!important;
 }
 
