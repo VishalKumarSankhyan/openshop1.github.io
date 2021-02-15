@@ -96,6 +96,7 @@
         display: none!important;
     }
 
+
     
 }
 @media(max-width:899px){ 
@@ -267,6 +268,9 @@
         
     }
 
+    
+
+
 }
 
 @media(max-width:330px){ 
@@ -276,6 +280,7 @@
     .image-m {
         width: 90px!important;
     }
+    
 }
 @media(max-width:299px){ 
     .navbar {
@@ -362,6 +367,11 @@
     .image-m {
         width: 80px!important;
     }
+
+    .box{
+        width: 270px!important;
+    }
+
     
 }
 @media(max-width:290px){ 
