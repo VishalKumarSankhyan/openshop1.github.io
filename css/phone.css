@@ -87,7 +87,7 @@
         right: 0;
         /*bottom: -5px!important;*/
     }
-    /*
+    
     .fa-angle-right:before {
         display: none!important;
     }
@@ -96,7 +96,7 @@
         display: none!important;
     }
 
-    */
+    
 }
 @media(max-width:899px){ 
     .main-div-2{
